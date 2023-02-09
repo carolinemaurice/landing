@@ -1,0 +1,16 @@
+.cards {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.card {
+  width: 230px;
+  padding: 20px;
+  margin: 40px;
+  border: 1px solid gainsboro;
+}
+
+.card > img {
+  width: 150px;
+}
